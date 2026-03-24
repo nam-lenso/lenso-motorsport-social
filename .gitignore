@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Data (API cache, database)
+data/
+
+# Raw assets from Nam
+assets/
+
+# Rendered output (large files)
+output/graphics/
+output/videos/
+
+# Dashboard reports
+dashboard/reports/
+
+# Build output
+dist/
+*.js.map
+
+# OS
+.DS_Store
